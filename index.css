@@ -1,0 +1,52 @@
+/* *{
+    color: aliceblue;
+
+} */
+body{
+    /* background: #7600bc; */
+    background: #0a0a0a;
+}
+
+.hero-btn{
+    background: #1562f9;
+    border: solid #1562f9;
+    /* padding: 10px; */
+    /* border-radius: 20px; */
+}
+.hero{
+    margin-top: 150px !important;
+}
+.skill-box{
+    /* border: 2px solid #fff; */
+    padding: 20px;
+    
+
+}
+.test{
+    width: 100px;
+    height: 100px;
+   color: red;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+
+  }
+  
+  @keyframes example {
+    0%   {color: red;}
+    25%  {color: blue;}
+    50%  {color: blue;}
+    100% {color: yellow;}
+  }
+
+
+
+
+
+
+
+
+
+  
+
+
